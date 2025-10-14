@@ -47,8 +47,15 @@ Components
   + Craft Item: Recipe에 따라 새로운 아이템 생성기능
   + Use Item: 아이템 종류에 따른 어빌리티 사용
 + QuickSlotComponent: 캐릭터의 퀵슬릇 관련 컴포넌트
-+ BuildingComponent
-+ CombatComponent
+  + Transfer Contents: 인벤토리 및 스킬(추가 계정)을 퀵슬릇에 배치
+  + Use Slot Ability: 퀵슬릇에 배치된 요소에 따라 적절한 어빌리티 사용
++ BuildingComponent: 구조물을 배치하는 컴포넌트
+  + PreViewActor(Client): Preview Mesh 추가 및 이동, 회전
+  + Place Structure(Server): Preview Mesh의 위치에 해당 구조물을 배치
++ CombatComponent: 캐릭터의 전투 관련 컴포넌트
+  + Equip Weapon(Server): 무기 장착기능
+  + Equip Armor(Server): 방어구 장착기능
+  + Melee Attack: 근접공격 탐지 로직 (Attack Ability와 연동)
 
 
 ---
