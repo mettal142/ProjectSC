@@ -65,7 +65,7 @@ Ability System
   + UseItem: 소비 아이템의 게임플레이 이펙트를 캐릭터에게 부여해주는 어빌리티
      ![스크린샷 2024-03-25 233612](https://github.com/mettal142/ProjectSC/blob/main/Images/18.gif)
   + Player Evade: 회피 어빌리티
-   ![스크린샷 2024-03-25 233612](https://github.com/mettal142/ProjectSC/blob/main/Images/16.gif)
+   ![스크린샷 2024-03-25 233612](https://github.com/mettal142/ProjectSC/blob/main/Images/17.gif)
   + Player Attack: 플레이어의 공격 어빌리티
    ![스크린샷 2024-03-25 233612](https://github.com/mettal142/ProjectSC/blob/main/Images/15.gif)
   + Enemy Attack: Enemy(무기장착 X)의 공격 어빌리티
