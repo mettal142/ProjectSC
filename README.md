@@ -42,8 +42,10 @@ Character
 Components
 ---
 
-+ InventoryComponent
-+ CraftingComponent
++ InventoryComponent: 캐릭터의 인벤토리 관련 컴포넌트
+  + Itema Add/Remove/Transfer
+  + Craft Item
+  + Use Item
 + QuickSlotComponent
 + BuildingComponent
 + CombatComponent
