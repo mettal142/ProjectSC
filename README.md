@@ -1,4 +1,4 @@
-![19](https://github.com/user-attachments/assets/c1493fea-3fe2-441b-91d5-d5cd371d4e43)# ProjectSC(Survival Craft)
+# ProjectSC(Survival Craft)
 ---
 + 엔진 버전 : Unreal Engine 5.4
 + 에디터 : Visual Studio 2022
