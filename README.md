@@ -17,10 +17,18 @@ Character
 ---
 + Character StartUp Data
   	DA 사진
-![스크린샷 2024-03-25 233612](https://github.com/mettal142/ProjectSC/blob/main/Images/7.png)
 
 + Character Customize
-  DA 및 캐릭터, 좀비 커스터마이징 사진
+
+  + Character Customize Data Asset
+  ![스크린샷 2024-03-25 233612](https://github.com/mettal142/ProjectSC/blob/main/Images/7.png)
+
+ 
+   + 변경된 캐릭터의 외형
+  ![스크린샷 2024-03-25 233612](https://github.com/mettal142/ProjectSC/blob/main/Images/9.png)
+
+   + 변경된 Enemy의 외형
+  ![스크린샷 2024-03-25 233612](https://github.com/mettal142/ProjectSC/blob/main/Images/8.png)
 
 ---
 Components
