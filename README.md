@@ -16,12 +16,19 @@
 Character
 ---
 + Character StartUp Data
-  	DA 사진
-
+  ![스크린샷 2024-03-25 233612](https://github.com/mettal142/ProjectSC/blob/main/Images/5.png)
+  + Player Startup Ability Sets: InputTag 대비 실행할 Gameplay Ability
+  + Default Anim Layer to Link: 기본 Animation Layer
+  + Attack Montage: 기본공격 Montage
+  + Activate on Given Abilities: 부여된 직후 바로 실행될 단발성 Gameplay Ability
+  + Reactive Abilities: 캐릭터에 부여된 어빌리티
+  + Startup Gameplay Effects: 캐릭터의 기본 Gameplay Effects
+ 
+ 
 + Character Customize
 
   + Character Customize Data Asset
-  ![스크린샷 2024-03-25 233612](https://github.com/mettal142/ProjectSC/blob/main/Images/7.png)
+  ![스크린샷 2024-03-25 233612](https://github.com/mettal142/ProjectSC/blob/main/Images/10.png)
 
  
    + 변경된 캐릭터의 외형
