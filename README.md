@@ -84,6 +84,29 @@ Ability System
 Items
 ---
 + SlotPrimaryDataAsset: 퀵슬릇에 올릴 수 있는 컨텐츠의 Primary Data Asset(Item, Skill)
+> SlotPrimaryDataBase.h
+
+
+    class PROJECTSC_API USlotPrimaryDataBase : public UPrimaryDataAsset
+    {
+    	GENERATED_BODY()
+    	
+    public:
+    	UPROPERTY(EditDefaultsOnly, BlueprintReadOnly, Category = "BaseProperties")
+    	int ID = 0;
+    	UPROPERTY(EditDefaultsOnly, BlueprintReadOnly, Category = "BaseProperties")
+    	UTexture2D* Icon;
+    	UPROPERTY(EditDefaultsOnly, BlueprintReadOnly, Category = "BaseProperties")
+    	FText Name;
+    	UPROPERTY(EditDefaultsOnly, BlueprintReadOnly, Category = "BaseProperties")
+    	FText Description;
+    	UPROPERTY(EditDefaultsOnly, BlueprintReadOnly, Category = "BaseProperties")
+    	FGameplayTag AbilityTag;
+    	UPROPERTY(EditDefaultsOnly, BlueprintReadOnly, Category = "BaseProperties")
+    	EContentType ContentType;
+    };
+
+  
 + Data Types
    + Resource: 제작에 필요한 기타 아이템(ID: 100000 ~ 199999)
    + Usable: 사용할 수 있는 소비 아이템(ID: 200000 ~ 299999)
