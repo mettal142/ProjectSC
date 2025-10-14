@@ -83,13 +83,16 @@ Ability System
 ---
 Items
 ---
-+ SlotPrimaryDataAsset
-+ Item Types
-   + Weapon
-   + Armor
-   + Usable
-   + Resource
-   + Buildables
++ SlotPrimaryDataAsset: 퀵슬릇에 올릴 수 있는 컨텐츠의 Primary Data Asset(Item, Skill)
++ Data Types
+   + Resource: 제작에 필요한 기타 아이템(ID: 100000 ~ 199999)
+   + Usable: 사용할 수 있는 소비 아이템(ID: 200000 ~ 299999)
+   + Armor: 장착할 수 있는 방어구 아이템(ID: 300000 ~ 399999)
+   + Weapon: 장착할 수 있는 무기 아이템(ID: 400000 ~ 499999)
+   + Buildables: 배치할 수 있는 건축 아이템(ID: 500000 ~ 599999)
+   + Skill: 전투 및 보조 역할의 스킬(ID: 600000 ~ 699999) -> 추가예정
+   + Recipe: 제작을 위한 레시피(ID: 700000 ~ 799999)
+     
 + 데이터테이블
   
 ---
