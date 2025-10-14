@@ -98,3 +98,4 @@ Multiplay System
 >YouTube
 
 [![이미지 텍스트](https://github.com/mettal142/ProjectSC/blob/main/Images/20.png)](https://youtu.be/3JuylUJiWrs)
+ + 이미지 클릭 시 영상 재생
