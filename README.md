@@ -109,9 +109,13 @@ Items
      
 + Data Tables
   + Item Table: 게임에 들어가는 모든 아이템 테이블
+  ![스크린샷 2024-03-25 233612](https://github.com/mettal142/ProjectSC/blob/main/Images/21.png)
   + Recipe Table: 아이템을 제작하기 위한 레시피 테이블
+  ![스크린샷 2024-03-25 233612](https://github.com/mettal142/ProjectSC/blob/main/Images/23.png)
   + Drop Table: 아이템을 획득하기 위한 드랍 테이블
+  ![스크린샷 2024-03-25 233612](https://github.com/mettal142/ProjectSC/blob/main/Images/22.png)
   + Buildable Table: 배치 가능한 구조물 테이블
+  ![스크린샷 2024-03-25 233612](https://github.com/mettal142/ProjectSC/blob/main/Images/24.png)
   
 + Data Types
    + Resource: 제작에 필요한 기타 아이템(ID: 100000 ~ 199999)
