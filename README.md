@@ -106,6 +106,12 @@ Items
     	EContentType ContentType;
     };
 
+     
++ Data Tables
+  + Item Table: 게임에 들어가는 모든 아이템 테이블
+  + Recipe Table: 아이템을 제작하기 위한 레시피 테이블
+  + Drop Table: 아이템을 획득하기 위한 드랍 테이블
+  + Buildable Table: 배치 가능한 구조물 테이블
   
 + Data Types
    + Resource: 제작에 필요한 기타 아이템(ID: 100000 ~ 199999)
@@ -115,9 +121,6 @@ Items
    + Buildables: 배치할 수 있는 건축 아이템(ID: 500000 ~ 599999)
    + Skill: 전투 및 보조 역할의 스킬(ID: 600000 ~ 699999) -> 추가예정
    + Recipe: 제작을 위한 레시피(ID: 700000 ~ 799999)
-     
-+ 데이터테이블
-  
 ---
 Multiplay System
 ---
