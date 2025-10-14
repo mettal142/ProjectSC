@@ -62,7 +62,7 @@ Components
 Ability System
 ---
 + Gameplay Abilities
-  + UseItem: 소비 아이템의 게임플레이 이펙트를 캐릭터에게 부여해주는 어빌리티
+  + UseItem: 소비 아이템의 게임플레이 이펙트를 캐릭터에게 부여해주는 어빌리티 (체력포션)
      ![스크린샷 2024-03-25 233612](https://github.com/mettal142/ProjectSC/blob/main/Images/18.gif)
   + Player Evade: 회피 어빌리티
    ![스크린샷 2024-03-25 233612](https://github.com/mettal142/ProjectSC/blob/main/Images/17.gif)
