@@ -16,6 +16,7 @@
 Character
 ---
 + Character StartUp Data
+  
   ![스크린샷 2024-03-25 233612](https://github.com/mettal142/ProjectSC/blob/main/Images/5.png)
   + Player Startup Ability Sets: InputTag 대비 실행할 Gameplay Ability
   + Default Anim Layer to Link: 기본 Animation Layer
