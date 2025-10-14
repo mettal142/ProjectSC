@@ -43,10 +43,10 @@ Components
 ---
 
 + InventoryComponent: 캐릭터의 인벤토리 관련 컴포넌트
-  + Itema Add/Remove/Transfer
-  + Craft Item
-  + Use Item
-+ QuickSlotComponent
+  + Itema Add/Remove/Transfer: 아이템 추가 삭제 및 이동기능
+  + Craft Item: Recipe에 따라 새로운 아이템 생성기능
+  + Use Item: 아이템 종류에 따른 어빌리티 사용
++ QuickSlotComponent: 캐릭터의 퀵슬릇 관련 컴포넌트
 + BuildingComponent
 + CombatComponent
 
