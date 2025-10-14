@@ -55,14 +55,26 @@ Components
 + CombatComponent: 캐릭터의 전투 관련 컴포넌트
   + Equip Weapon(Server): 무기 장착기능
   + Equip Armor(Server): 방어구 장착기능
-  + Melee Attack: 근접공격 탐지 로직 (Attack Ability와 연동)
+  + Melee Attack: 근접공격 탐지 로직
 
 
 ---
 Ability System
 ---
 + Gameplay Abilities
+  + UseItem: 소비 아이템의 게임플레이 이펙트를 캐릭터에게 부여해주는 어빌리티
+  + Player Evade: 회피 어빌리티
+  + Player Build: Building Component의 기능을 사용하는 어빌리티
+  + Player Attack: 플레이어의 공격 어빌리티
+  + Enemy Attack: Enemy(무기장착 X)의 공격 어빌리티
 + Gameplay Effects
+  + Primary Attributes: 캐릭터의 기본 스탯 어트리뷰트를 부여하는 게임플레이 이펙트(추가 예정)
+  + Secondary Abilities: Primary Attribute에 따라 달라지는 어트리뷰트를 부여하는 게임플레이 이펙트
+  + Vital Abilities: 현재 체력, 마나, 스태미나를 부여하는 게임플레이 이펙트
+  + Health/Stamina/Mana Regen: 주기적으로 Vital Attribute를 회복시켜주는 게임플레이 이펙트
+  + Useable Item Effect: 소비 아이템에 부여된 게임플레이 이펙트 (현제는 Health Potion)
+  + Combo Stack: 콤보공격의 스택을 관리하는 게임플레이 이펙트(1초마다 리셋)
+  + Damage: 캐릭터가 받는 데미지 관련 게임플레이 이펙트
 
 
 ---
