@@ -63,10 +63,14 @@ Ability System
 ---
 + Gameplay Abilities
   + UseItem: 소비 아이템의 게임플레이 이펙트를 캐릭터에게 부여해주는 어빌리티
+  +   ![스크린샷 2024-03-25 233612](https://github.com/mettal142/ProjectSC/blob/main/Images/18.gif)
   + Player Evade: 회피 어빌리티
-  + Player Build: Building Component의 기능을 사용하는 어빌리티
+  + ![스크린샷 2024-03-25 233612](https://github.com/mettal142/ProjectSC/blob/main/Images/16.gif)
   + Player Attack: 플레이어의 공격 어빌리티
+  + ![스크린샷 2024-03-25 233612](https://github.com/mettal142/ProjectSC/blob/main/Images/15.gif)
   + Enemy Attack: Enemy(무기장착 X)의 공격 어빌리티
+  + ![스크린샷 2024-03-25 233612](https://github.com/mettal142/ProjectSC/blob/main/Images/16.gif)
+  + Player Build: Building Component의 기능을 사용하는 어빌리티
 + Gameplay Effects
   + Primary Attributes: 캐릭터의 기본 스탯 어트리뷰트를 부여하는 게임플레이 이펙트(추가 예정)
   + Secondary Abilities: Primary Attribute에 따라 달라지는 어트리뷰트를 부여하는 게임플레이 이펙트
