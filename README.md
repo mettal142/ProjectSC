@@ -23,11 +23,11 @@ Character
   
   ![스크린샷 2024-03-25 233612](https://github.com/mettal142/ProjectSC/blob/main/Images/5.png)
   + Player Startup Ability Sets: 플레이어의 입력에 따라 실행할 어빌리티 (PlayerInput -> InputTag -> AbilityTag -> Ability실행)
-  + Default Anim Layer to Link: 기본 Animation Layer
-  + Attack Montage: 기본공격 Montage
-  + Activate on Given Abilities: 부여된 직후 바로 실행될 단발성 Gameplay Ability
-  + Reactive Abilities: 캐릭터에 부여된 어빌리티
-  + Startup Gameplay Effects: 캐릭터의 기본 Gameplay Effects
+  + Default Anim Layer to Link: 비무장 상태의 Animation Layer. 무기 변경시 해당 무기에 따라 Animation Layer 변경.
+  + Attack Montage: 기본공격 Montage. 무기 변경시 해당 무기에 따라 공격 Montage 변경.
+  + Activate on Given Abilities: 부여된 직후 바로 실행될 단발성 Gameplay Ability.
+  + Reactive Abilities: 캐릭터에 부여된 기본 어빌리티. 장비 장착 시 해당 장비에 따라 어빌리티 추가, 삭제 가능.
+  + Startup Gameplay Effects: 캐릭터의 기본 Gameplay Effects. 장비, 소비아이테, 스킬에 따라 변동 가능
  
  
 + Character Customize
