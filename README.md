@@ -22,7 +22,7 @@ Character
 + Character StartUp Data
   
   ![스크린샷 2024-03-25 233612](https://github.com/mettal142/ProjectSC/blob/main/Images/5.png)
-  + Player Startup Ability Sets: InputTag 대비 실행할 Gameplay Ability
+  + Player Startup Ability Sets: 플레이어의 입력에 따라 실행할 어빌리티 (PlayerInput -> InputTag -> AbilityTag -> Ability실행)
   + Default Anim Layer to Link: 기본 Animation Layer
   + Attack Montage: 기본공격 Montage
   + Activate on Given Abilities: 부여된 직후 바로 실행될 단발성 Gameplay Ability
