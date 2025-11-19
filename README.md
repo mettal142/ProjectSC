@@ -129,10 +129,4 @@ Items
    + Buildables: 배치할 수 있는 건축 아이템(ID: 500000 ~ 599999)
    + Skill: 전투 및 보조 역할의 스킬(ID: 600000 ~ 699999) -> 추가예정
    + Recipe: 제작을 위한 레시피(ID: 700000 ~ 799999)
----
-Multiplay System
----
->YouTube
 
-[![이미지 텍스트](https://github.com/mettal142/ProjectSC/blob/main/Images/20.png)](https://youtu.be/3JuylUJiWrs)
- + 이미지 클릭 시 영상 재생
